@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Readme.md",
+                "file": "02-Github/github-basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-Readme"
+              "title": "github-basics"
             }
           }
         ]
@@ -183,12 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "ddda5bb3feee38a4",
+  "active": "c7cdf61247cd3555",
   "lastOpenFiles": [
-    "04-Daily log/day-1.md",
     "03-Exercises/exercise-notes.md",
-    "01-Git/basics.md",
     "00-Readme.md",
+    "04-Daily log/day-1.md",
+    "01-Git/basics.md",
     "Untitled",
     "00-Root/README.md.md",
     "00-Root",
