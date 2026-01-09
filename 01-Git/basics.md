@@ -6,4 +6,4 @@ What does git init do?
 	The command git init is used to initialize a new Git repository.
     When we run git init inside a folder, Git starts tracking that folder.
 What is a repository?
-	
+	A repository is a storage space for a project. It contains all project files and their revision history.
