@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Exercises/exercise-notes.md.md",
+                "file": "00-Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "exercise-notes.md"
+              "title": "00-Readme"
             }
           }
         ]
@@ -183,16 +183,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "c7cdf61247cd3555",
+  "active": "ddda5bb3feee38a4",
   "lastOpenFiles": [
-    "01-Git/basics.md.md",
-    "Readme.md.md",
+    "04-Daily log/day-1.md",
+    "03-Exercises/exercise-notes.md",
+    "01-Git/basics.md",
+    "00-Readme.md",
     "Untitled",
     "00-Root/README.md.md",
-    "04-Daily log/day-1.md.md",
     "00-Root",
-    "03-Exercises/exercise-notes.md.md",
-    "02-Github/github-basics.md.md",
+    "02-Github/github-basics.md",
     "04-Daily log",
     "03-Exercises",
     "02-Github",
